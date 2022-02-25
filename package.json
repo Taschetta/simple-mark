@@ -1,0 +1,15 @@
+{
+  "name": "simple-mark",
+  "version": "0.1.0",
+  "description": "simple command line tool to render html from markdown without any extra formatting",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "author": "Santiago Taschetta",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "^12.3.2"
+  }
+}
